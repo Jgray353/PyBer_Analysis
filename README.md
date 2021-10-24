@@ -14,7 +14,7 @@ And as we see in figure 4, there is between 4-9 times more drivers in urban citi
 
 And finally, in the Total Fare by City Type chart, we see what we'd expect with urban drivers averaging the highest monthly total fares. 
 
-![alt text](https://github.com/Jgray353/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)Pyber_fare_summary.png
+![alt text](https://github.com/Jgray353/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
 
 ## Summary 
 
